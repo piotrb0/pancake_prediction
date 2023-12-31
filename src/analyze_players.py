@@ -149,6 +149,6 @@ if __name__ == "__main__":
     # Final data
     final_data_folder = '../data/merged_data/'
 
-    rounds_df = load_rounds_data(rounds_file)
+    rounds_df = load_rounds_data(rounds_file)6
 
-    create_final_csv_files(players_data_folder, final_data_folder, rounds_df)ccccc
+    create_final_csv_files(players_data_folder, final_data_folder, rounds_df)
